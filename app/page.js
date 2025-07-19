@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <main className="py-10 px-8  flex flex-col sm:flex-row sm:gap-8 h-screen items-center text-center">
+    <main className="py-10 px-8 flex flex-col sm:flex-row sm:gap-8 sm:justify-center h-screen items-center text-center">
       <div className="flex flex-col gap-3 mb-6 sm:w-[28rem]  ">
         <h1 className="text-3xl sm:text-5xl font-semibold sm:text-left">
           Learn to code by watching others
