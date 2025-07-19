@@ -12,3 +12,14 @@ body {
   color: white;
   min-height: 100vh;
 }
+.para {
+  background-color: hsl(248, 32%, 49%);
+}
+
+@media (min-width: 40rem) {
+  body {
+    background-image: url("/bg-intro-desktop.png");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+}
