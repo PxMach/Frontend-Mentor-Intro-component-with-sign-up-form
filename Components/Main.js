@@ -33,9 +33,6 @@ export default function Main() {
       setEmailError("");
     }
 
-    if (valid) {
-      console.log("Formulaire validé !");
-    }
   }
 
   return (
